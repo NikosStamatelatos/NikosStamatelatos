@@ -7,6 +7,6 @@ I'm currently working in the Banking Industry with a strong desire to transition
 - 🎓 Certified in JavaScript and Vue.js.
 - 💻 Creating websites and web applications.
 - 🌐 Experienced also in WordPress development.
-- 📫 Feel free to connect with me on [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/nikos-stamatelatos-4a42a6182/)) or send me an email at nikossstamatelatos@gmail.com. I'm open to collaborating on web development projects and always eager to learn and grow in the tech field.
+- 📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/nikos-stamatelatos-4a42a6182/) or send me an email at nikossstamatelatos@gmail.com. I'm open to collaborating on web development projects and always eager to learn and grow in the tech field.
 
 Looking forward to exploring exciting opportunities! 👍
